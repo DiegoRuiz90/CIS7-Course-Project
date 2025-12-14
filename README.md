@@ -1,4 +1,4 @@
-# CIS7-Course-Project
+# CIS7 Course Project
 
 Date Published: 12/13/2025
 
